@@ -6,4 +6,4 @@ these three men.
 wanted to make a website. 
 they coded a website.
 nothing would ever go wrong. 
-untill...
+Until... We created our website and tried to push. 
