@@ -5,5 +5,6 @@ Until it came time to subit.
 Other people can't see the changes I made. 
 OH NO!!
 We worked on this issue for an hour and still can't figure it out!
-Never mind, our preceptor came to save our error!
+Never mind, our preceptor came to save our error! Thanks Latih!
 Our project ran smoothly and we were all able to see the code
+Wow, that was close. 
